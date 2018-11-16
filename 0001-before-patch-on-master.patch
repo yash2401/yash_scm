@@ -1,0 +1,20 @@
+From 89d2e274525f815d0ff47c610fb673d82a2d9e7c Mon Sep 17 00:00:00 2001
+From: Yash <ladyash2401@gmail.com>
+Date: Fri, 16 Nov 2018 09:41:17 +0530
+Subject: [PATCH] before patch on master
+
+---
+ patch.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 patch.txt
+
+diff --git a/patch.txt b/patch.txt
+new file mode 100644
+index 0000000..9993138
+--- /dev/null
++++ b/patch.txt
+@@ -0,0 +1 @@
++let  us see demo of how to create and apply patch
+-- 
+2.19.0.windows.1
+
